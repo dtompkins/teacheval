@@ -1,10 +1,10 @@
- _                  _                     _ 
-| |                | |                   | |
-| |_ ___  __ _  ___| |__   _____   ____ _| |
-| __/ _ \/ _` |/ __| '_ \ / _ \ \ / / _` | |
-| ||  __/ (_| | (__| | | |  __/\ V / (_| | |
- \__\___|\__,_|\___|_| |_|\___| \_/ \__,_|_|
-                            by Dave Tompkins 
+     _                  _                     _ 
+    | |                | |                   | |
+    | |_ ___  __ _  ___| |__   _____   ____ _| |
+    | __/ _ \/ _` |/ __| '_ \ / _ \ \ / / _` | |
+    | ||  __/ (_| | (__| | | |  __/\ V / (_| | |
+     \__\___|\__,_|\___|_| |_|\___| \_/ \__,_|_|
+                                by Dave Tompkins 
  
 This repository [https://github.com/dtompkins/teacheval] stores the teaching evaluations for me (Dave Tompkins) [https://cs.uwaterloo.ca/~dtompkin/].
 
