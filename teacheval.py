@@ -131,7 +131,7 @@ for section_id in sections:
         rlist = list()
         for resp in responses:
           r = resp[qid]
-          if r:
+          if r and r.strip():
             rlist.append(r)
         rlist.sort(key=sortkey)
 
