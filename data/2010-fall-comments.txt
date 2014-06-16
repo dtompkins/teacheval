@@ -1,0 +1,5 @@
+I really enjoyed teaching this course with George.  It was the last offering of 211 (before switching over to 210) and so there was little incentive to make any significant changes to the material.<br /><br />
+
+This was the first time I was teaching a predominately programming course, and while I was moderately happy with the term, there were many aspects I wish I could have improved upon. I struggled with my pacing and examples and I generally overestimated the programming skills of the students. In the later half of the course I realized the advantage of live coding in front of the students. I also underestimated the complexity of the swing component of the course.<br /><br />
+
+This semester was a little stressful for me as I finished and defended my PhD thesis, and I hosted a visiting researcher for several weeks.

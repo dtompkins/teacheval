@@ -1,0 +1,3 @@
+coursecode,EECE 467
+coursename,Real-Time Implementation of DSP Algorithms
+coursedesc,"DSP systems overview; DSP architectures; programming DSPs in 'C' and Assembly, I/O issues; real-time operating systems; host interfaces; code mapping and optimization; testing; DSP solutions in speech, audio, radar, telecommunications and control."

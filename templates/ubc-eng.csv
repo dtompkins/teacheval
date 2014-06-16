@@ -1,0 +1,47 @@
+smc_1,The instructor is habitually well prepared for class.
+smc_1.1,Strongly Disagree
+smc_1.2,Disagree
+smc_1.3,Agree
+smc_1.4,Strongly Agree
+smc_2,The instructor speaks clearly and audibly.
+smc_2.1,Strongly Disagree
+smc_2.2,Disagree
+smc_2.3,Agree
+smc_2.4,Strongly Agree
+smc_3,The instructor's blackboard and screen presentations are clear and visible.
+smc_3.1,Strongly Disagree
+smc_3.2,Disagree
+smc_3.3,Agree
+smc_3.4,Strongly Agree
+smc_4,The instructor appears to be interested in teaching.
+smc_4.1,Strongly Disagree
+smc_4.2,Disagree
+smc_4.3,Agree
+smc_4.4,Strongly Agree
+smc_5,I rate the instructor's overall effectiveness high.
+smc_5.css,mcbold
+smc_5.1,Strongly Disagree
+smc_5.2,Disagree
+smc_5.3,Agree
+smc_5.4,Strongly Agree
+smc_6,In comparison to other courses of equal credit the assigned workload for this course is heavy.
+smc_6.1,Strongly Disagree
+smc_6.2,Disagree
+smc_6.3,Agree
+smc_6.4,Strongly Agree
+smc_7,In comparison to other courses I am taking the level of the material for this course is rather advanced.
+smc_7.1,Strongly Disagree
+smc_7.2,Disagree
+smc_7.3,Agree
+smc_7.4,Strongly Agree
+smc_8,The course material seems relevant to my professional needs.
+smc_8.1,Strongly Disagree
+smc_8.2,Disagree
+smc_8.3,Agree
+smc_8.4,Strongly Agree
+smc_9,The course material is interesting.
+smc_9.1,Strongly Disagree
+smc_9.2,Disagree
+smc_9.3,Agree
+smc_9.4,Strongly Agree
+txt_1,Comment on what the instructor has done especially well in teaching the course and what he/she might do to improve teaching it.

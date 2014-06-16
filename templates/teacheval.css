@@ -1,0 +1,118 @@
+﻿
+/*
+    do not modify this in the www/teaching folder.
+    modify the file in the tempaltes/teacheval
+*/
+
+body { 
+  font-family: Verdana,Geneva,Arial,Helvetic,sans-serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-size: 16px;
+  background: #FFF;
+}
+
+A:link    { color:#0000D0; text-decoration:none }
+A:visited { color:#0000D0; text-decoration:none }
+A:active  { color:#0000D0; text-decoration:none }
+A:hover   { color:#0080FF; text-decoration:none }
+
+div.breadcrumbs {
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+div.mainheader {
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 12px;
+  margin-bottom: 2px;
+}
+
+div.coursename {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+div.coursedesc {
+  font-size: 14px;
+  font-style: italic;
+}
+
+div.comments {
+  border: 1PX solid gray;  
+  font-style: italic;
+  background-color: #FFC;
+  margin: 5px;
+  padding: 5px;
+}
+
+div.responserate {
+  margin-top: 12px;
+  margin-bottom: 2px;
+}
+
+div.evalheader {
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 12px;
+  margin-bottom: 2px;
+}
+
+table.mc, table.txt {
+  border-width: 1px;
+  border-spacing: 0px;
+  border-style: inset;
+  border-color: gray;
+  border-collapse: collapse;
+  font-family: Verdana,Geneva,Arial,Helvetic,sans-serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-size: 14px;
+  margin-top: 18px;  
+}
+
+table.mcbold {
+  border-width: 2px;
+  border-color: black;
+}
+
+table.mc td {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-width: 1px;
+  border-spacing: 0px;
+  border-style: inset;
+  border-color: gray;
+  border-collapse: collapse;
+}
+
+tr.quest {
+  font-size: 16px;
+  background-color: #9CF;
+}
+
+tr.quest td {
+  text-align: left;
+}
+
+tr.resp {
+  background-color: #CCC;
+}
+
+ul.resp li {
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+span.tt {
+  font-family: "Courier New",Courier,"Lucida Console",monospaced;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bold;
+}

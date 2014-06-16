@@ -1,0 +1,32 @@
+smc_1,Well Prepared.
+smc_1.1,Strongly Disagree
+smc_1.2,Disagree
+smc_1.3,Neutral
+smc_1.4,Agree
+smc_1.5,Strongly Agree
+smc_2,Helpful.
+smc_2.1,Strongly Disagree
+smc_2.2,Disagree
+smc_2.3,Neutral
+smc_2.4,Agree
+smc_2.5,Strongly Agree
+smc_3,Considerate of students.
+smc_3.1,Strongly Disagree
+smc_3.2,Disagree
+smc_3.3,Neutral
+smc_3.4,Agree
+smc_3.5,Strongly Agree
+smc_4,Easily Understood.
+smc_4.1,Strongly Disagree
+smc_4.2,Disagree
+smc_4.3,Neutral
+smc_4.4,Agree
+smc_4.5,Strongly Agree
+smc_5,An effective instructor.
+smc_5.css,mcbold
+smc_5.1,Strongly Disagree
+smc_5.2,Disagree
+smc_5.3,Neutral
+smc_5.4,Agree
+smc_5.5,Strongly Agree
+txt_1,My suggestions for improving the effectiveness of the teaching assistant are:

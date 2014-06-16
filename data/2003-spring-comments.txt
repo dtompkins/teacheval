@@ -1,0 +1,1 @@
+This semester I was tasked with developing a database of past exam questions.  I spent the entire semester LaTeX-ing questions and reproducing hand-drawn diagrams.

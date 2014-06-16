@@ -1,0 +1,68 @@
+smc_1,The instructor made it clear what students were expected to learn.
+smc_1.1,Strongly Disagree
+smc_1.2,Disagree
+smc_1.3,Neutral
+smc_1.4,Agree
+smc_1.5,Strongly Agree
+smc_2,The instructor communicated the subject matter effectively.
+smc_2.1,Strongly Disagree
+smc_2.2,Disagree
+smc_2.3,Neutral
+smc_2.4,Agree
+smc_2.5,Strongly Agree
+smc_3,The instructor helped inspire interest in learning the subject matter.
+smc_3.1,Strongly Disagree
+smc_3.2,Disagree
+smc_3.3,Neutral
+smc_3.4,Agree
+smc_3.5,Strongly Agree
+smc_4,"Overall, evaluation of student learning (through exams, essays, presentations, etc.) was fair."
+smc_4.1,Strongly Disagree
+smc_4.2,Disagree
+smc_4.3,Neutral
+smc_4.4,Agree
+smc_4.5,Strongly Agree
+smc_5,The instructor showed concern for student learning.
+smc_5.1,Strongly Disagree
+smc_5.2,Disagree
+smc_5.3,Neutral
+smc_5.4,Agree
+smc_5.5,Strongly Agree
+smc_6,"Overall, the instructor was an effective teacher."
+smc_6.css,"mcbold"
+smc_6.1,Strongly Disagree
+smc_6.2,Disagree
+smc_6.3,Neutral
+smc_6.4,Agree
+smc_6.5,Strongly Agree
+smc_7,My academic background provided sufficient preparation for this course.
+smc_7.1,Strongly Disagree
+smc_7.2,Disagree
+smc_7.3,Neutral
+smc_7.4,Agree
+smc_7.5,Strongly Agree
+smc_8,This course promoted conceptual understanding.
+smc_8.1,Strongly Disagree
+smc_8.2,Disagree
+smc_8.3,Neutral
+smc_8.4,Agree
+smc_8.5,Strongly Agree
+smc_9,The learning activities helped me to succeed in this course.
+smc_9.1,Strongly Disagree
+smc_9.2,Disagree
+smc_9.3,Neutral
+smc_9.4,Agree
+smc_9.5,Strongly Agree
+smc_10,The workload for this course was appropriate.
+smc_10.1,Strongly Disagree
+smc_10.2,Disagree
+smc_10.3,Neutral
+smc_10.4,Agree
+smc_10.5,Strongly Agree
+smc_11,I received sufficient feedback on my progress during this course.
+smc_11.1,Strongly Disagree
+smc_11.2,Disagree
+smc_11.3,Neutral
+smc_11.4,Agree
+smc_11.5,Strongly Agree
+txt_1,Enter comments below.
