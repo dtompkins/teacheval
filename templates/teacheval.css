@@ -43,7 +43,7 @@ div.coursedesc {
 }
 
 div.comments {
-  border: 1PX solid gray;  
+  border: 1px solid gray;
   font-style: italic;
   background-color: #FFC;
   margin: 5px;
@@ -121,6 +121,18 @@ span.tt {
 span.footnote {
   font-size: 12px;
 }
+
+div.github {
+  border: 1px solid gray;
+  /* font-weight: bold; */
+  font-size: 12px;
+  background-color: #DFD;
+  margin: 5px;
+  margin-top: 20px;
+  padding: 5px;
+  display: inline-block
+}
+
 
 /* hosting page */
 

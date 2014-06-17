@@ -5,6 +5,7 @@
     | ||  __/ (_| | (__| | | |  __/\ V / (_| | |
      \__\___|\__,_|\___|_| |_|\___| \_/ \__,_|_|
 
+[https://github.com/dtompkins/teacheval]
 by Dave Tompkins [http://dtompkins.com]
  
 This repository is part of my ongoing commitment to improve my teaching and to be open and transparent about my teaching.
@@ -40,5 +41,5 @@ There may also be a data/section-id-comments.txt file containing my personal com
 
 
 SMC (Summarized Multiple Choice):
-* The first row has the number of possible choices per question
-* Each subsequent row corresponds to the number of students that selected the corresponding choice.
+* The first data row (after the header) has the number of possible choices per question
+* Each subsequent row contains the number of students that selected the corresponding choice.
