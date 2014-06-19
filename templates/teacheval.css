@@ -1,10 +1,4 @@
-﻿
-/*
-    do not modify this in the www/teaching folder.
-    modify the file in the tempaltes/teacheval
-*/
-
-body { 
+﻿body {
   font-family: Verdana,Geneva,Arial,Helvetic,sans-serif;
   font-style: normal;
   font-variant: normal;
@@ -95,7 +89,7 @@ table.mc td {
 
 tr.quest {
   font-size: 16px;
-  background-color: #9CF;
+  background-color: #BDF;
 }
 
 tr.quest td {
@@ -165,7 +159,62 @@ table.main td.c {
   text-align: center;
 }
 
+table.main td.c {
+  text-align: left;
+}
+
 tr.mainhdr {
   font-size: 16px;
   background-color: #9CF;
+}
+
+/* random page */
+
+tr.randresp {
+  color: #AAA;
+}
+
+table.mc td.chosen {
+  color: #FFF;
+  background-color: #777;
+}
+
+div.randintro {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+div.random {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.getrand {
+  -webkit-border-radius: 5px 5px 5px 5px;
+  border-radius: 5px 5px 5px 5px;
+  border-width: 2px;
+  border-spacing: 10px;
+  border-style: inset;
+  border-color: gray;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.getrandon {
+  background-color: #DFD;
+  color: #000;
+}
+
+.getrandoff {
+  background-color: #FDD;
+  color: #FFF;
+}
+
+.showhide {
+  font-size: 14px;
+  font-weight: normal;
 }
