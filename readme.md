@@ -14,9 +14,9 @@ It contains:
 
 1) The raw data for ALL of the evaluations (good and bad) that I have received from my students, including their individual comments.
 
-and
-
 2) The python scripts to take that raw data, along with some template files, and automatically generate the pretty pages located at: https://cs.uwaterloo.ca/~dtompkin/teaching/
+
+3) The source files for generating the 'random' evaluation page
 
 
 A brief description of how to use the data:
