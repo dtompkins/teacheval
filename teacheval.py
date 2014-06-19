@@ -1,7 +1,6 @@
 import html
 import os.path
 import pathlib
-import shutil
 import sys
 
 from csvsimple import *
@@ -10,7 +9,6 @@ from csvsimple import *
 WWW_OUT_DIR = 'd:/www/teaching/'
 DATA_DIR = 'data/'
 TEMPLATE_DIR = 'templates/'
-CSS_FILE = 'teacheval.css'  # set to '' to not auto copy
 
 NO_COMMENT = 'Coming soon...'
 
@@ -161,6 +159,3 @@ for section_id in sections:
 
   with open(WWW_OUT_DIR + section_id + '.html', 'w', newline='', encoding='utf-8') as f:
     f.write(page)
-
-if CSS_FILE:
-  shutil.copyfile(TEMPLATE_DIR + CSS_FILE, WWW_OUT_DIR + CSS_FILE)
