@@ -1,0 +1,3 @@
+This was the second time teaching CS 135, and it went a lot smoother because I was better at presenting examples and putting material in the larger context.  I had done several passes over the notes to improve some inconsistencies (e.g., parameter naming conventions) that helped a little.<br><br>
+
+Behind the scenes it was a bit of a challenge teaching with several "new" instructors and as a result some of the assignments were awkward.  This term I also felt a little stretched: I had just taken on new (double degree) advising responsibilities and teaching CS 350 was also quite demanding.
