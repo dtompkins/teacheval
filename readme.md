@@ -16,7 +16,7 @@ It contains:
 
 2) The python scripts to take that raw data, along with some template files, and automatically generate the pretty pages located at: https://cs.uwaterloo.ca/~dtompkin/teaching/
 
-3) The source files for generating the 'random' evaluation page
+3) The source files for the page to load a random teaching evaluation: https://cs.uwaterloo.ca/~dtompkin/teaching/random/
 
 
 A brief description of how to use the data:
