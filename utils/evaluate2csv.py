@@ -66,7 +66,7 @@ def get_response(obj, field):
 # USAGE:
 if len(sys.argv) != 3:
   print("syntax:")
-  print("    evaluate2csv.py filein.json template.csv fileout.csv")
+  print("    evaluate2csv.py filein.json fileout.csv")
   exit("missing parameter")
 
 file_in = sys.argv[1]
