@@ -138,6 +138,8 @@ for section_id in sections:
         for resp in responses:
           r = resp[qid]
           if r and r.strip():
+            if qid.startswith('mcex_'):
+              r = '[' + questions[qid.replace('ex', '') + '.' + str(resp[qid.replace('ex', '')])] + '] ' + r
             rlist.append(r)
         rlist.sort(key=sortkey)
 
