@@ -1,0 +1,9 @@
+This was the first time I was teaching CS 135 as course co-ordinator.  Even though I was the only instructor who had taught 135 before, the term went relatively smoothly.<br><br>
+
+This term I successfully introduced the new "Style Guide" that can be used for 135/136 and 115/116.<br><br>
+
+We used crowdmark (an online system for marking the midterms and finals) for the first time.  Despite some technical issues related to concurrency, it was a far more positive experience than traditional paper marking.<br><br>
+
+For fun, before each lecture I showed 5 minutes of the movie <a href="http://www.imdb.com/title/tt0892769">How to Train Your Dragon</a> (h2tyd) and we were able to complete the movie by the end of the term (the movie was selected by a class vote).  Not only was it entertaining, but it encouraged students to arrive early and be settled before the lecture began. Also on the fun side, this term my new lightsaber made its debut.<br><br>
+
+This was my first term with the new "evaluate" on-line teacher evaluations, and the first time with question-specific comments.  It seemed to be much better than the learn-based system that was used in Winter 2014.

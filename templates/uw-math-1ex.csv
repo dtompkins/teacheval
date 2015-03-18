@@ -1,0 +1,120 @@
+mc_1,"Evaluate the organization and coherence of the lectures."
+mc_1.1,Excellent
+mc_1.2,Good
+mc_1.3,Satisfactory
+mc_1.4,Unsatisfactory
+mc_1.5,Very poor
+mc_1.6,No opinion
+mc_2,"At what level were the instructor's explanations aimed?"
+mc_2.1,Too high
+mc_2.2,Somewhat too high
+mc_2.3,Just right
+mc_2.4,Somewhat too low
+mc_2.5,Too low
+mc_2.6,No opinion
+mc_3,"Evaluate the instructor's treatment of students' questions."
+mc_3.1,Excellent
+mc_3.2,Good
+mc_3.3,Satisfactory
+mc_3.4,Unsatisfactory
+mc_3.5,Very poor
+mc_3.6,No opinion
+mc_4,"Evaluate the effectiveness of the instructor's visual presentation (blackboard, overheads, etc.)."
+mc_4.1,Excellent
+mc_4.2,Good
+mc_4.3,Satisfactory
+mc_4.4,Unsatisfactory
+mc_4.5,Very poor
+mc_4.6,No opinion
+mc_5,"Evaluate the effectiveness of the instructor's oral presentation."
+mc_5.1,Excellent
+mc_5.2,Good
+mc_5.3,Satisfactory
+mc_5.4,Unsatisfactory
+mc_5.5,Very poor
+mc_5.6,No opinion
+mc_6,"Was the instructor available for help outside of class?"
+mc_6.1,Always
+mc_6.2,Most of the time
+mc_6.3,Often enough
+mc_6.4,Not often enough
+mc_6.5,Never
+mc_6.6,I did not seek help
+mc_7,"Did you find the course interesting?"
+mc_7.1,Very Interesting
+mc_7.2,Interesting
+mc_7.3,Not interesting
+mc_7.4,No opinion
+mc_8,"Evaluate the overall effectiveness of the instructor as a teacher."
+mc_8.css,"mcbold"
+mc_8.1,Excellent
+mc_8.2,Good
+mc_8.3,Satisfactory
+mc_8.4,Unsatisfactory
+mc_8.5,Very poor
+mc_8.6,No opinion
+mc_9,"What proportion of lectures did you attend in this course?"
+mc_9.1,"90-100%"
+mc_9.2,"75-90%"
+mc_9.3,"50-75%"
+mc_9.4,"25-50%"
+mc_9.5,"< 25%"
+mc_10,"Was the assigned work (assignments, projects, etc.) helpful in learning the course content?"
+mc_10.1,Very helpful
+mc_10.2,Helpful
+mc_10.3,Not helpful
+mc_10.4,No work assigned
+mc_10.5,No opinion
+mc_11,"Were the printed notes (if any) helpful in learning the course content?"
+mc_11.1,Very helpful
+mc_11.2,Helpful
+mc_11.3,Not helpful
+mc_11.4,No printed course notes
+mc_11.5,No opinion
+mc_12,"Was the required textbook (if any) helpful in learning the course content?"
+mc_12.1,Very helpful
+mc_12.2,Helpful
+mc_12.3,Not helpful
+mc_12.4,No text required
+mc_12.5,No opinion
+mc_13,"Did the course introduce an appropriate amount of new material?"
+mc_13.1,Too much
+mc_13.2,Somewhat too much
+mc_13.3,Okay
+mc_13.4,Somewhat too little
+mc_13.5,Too little
+mc_13.6,No opinion
+mc_14,"Was the amount of assigned work required for the course appropriate?"
+mc_14.1,Too much
+mc_14.2,Somewhat too much
+mc_14.3,Okay
+mc_14.4,Somewhat too little
+mc_14.5,Too little
+mc_14.6,No opinion
+mc_15,"On average, how many hours per week did you spend on this course outside of lectures?"
+mc_15.1,"0-2 hours"
+mc_15.2,"3-6 hours"
+mc_15.3,"7-10 hours"
+mc_15.4,"11-15 hours"
+mc_15.5,"> 15 hours"
+txt_1,"Please mention anything that you feel the instructor has done well in this course."
+txt_2,"Please make constructive comments about anything in the instructor's technique or style that could, in your opinion, be improved."
+txt_3,"What were the strong points of the course?"
+txt_4,"What were the weak points of the course?"
+txt_5,"Was the class atmosphere affected either positively or negatively by attitudes of the instructor or students, e.g., with respect to gender, race, ability, appearance? Please explain."
+txt_6,"Any other comments, e.g., class size, suitability of room, noise level, etc."
+mcex_1,"question-specific comments:"
+mcex_2,"question-specific comments:"
+mcex_3,"question-specific comments:"
+mcex_4,"question-specific comments:"
+mcex_5,"question-specific comments:"
+mcex_6,"question-specific comments:"
+mcex_7,"question-specific comments:"
+mcex_8,"question-specific comments:"
+mcex_9,"question-specific comments:"
+mcex_10,"question-specific comments:"
+mcex_11,"question-specific comments:"
+mcex_12,"question-specific comments:"
+mcex_13,"question-specific comments:"
+mcex_14,"question-specific comments:"
+mcex_15,"question-specific comments:"

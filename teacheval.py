@@ -77,13 +77,15 @@ for section_id in sections:
     questions = csv_to_dict(verify_file(TEMPLATE_DIR + data['template'] + '.csv'))
     with open(verify_file(TEMPLATE_DIR + 'mc.html'), 'r') as f:
       mc_html = f.read()
+    with open(verify_file(TEMPLATE_DIR + 'mcex.html'), 'r') as f:
+      mcex_html = f.read()
     with open(verify_file(TEMPLATE_DIR + 'txt.html'), 'r') as f:
       txt_html = f.read()
 
     maxtotal = len(responses)
 
     for qid in responses.keys:
-      if qid[:2] == 'mc' or qid[:3] == 'smc':  # [SUMMARIZED] MULTIPLE CHOICE
+      if qid.startswith('mc_') or qid.startswith('smc_'):  # [SUMMARIZED] MULTIPLE CHOICE
         num_choices = 0
         counts = list()
         percents = list()
@@ -95,7 +97,7 @@ for section_id in sections:
           choices.append(questions[qid + '.{}'.format(num_choices)])
         if not num_choices:
           continue
-        if qid[:1] == 's':  # sumarized
+        if qid.startswith('smc_'):  # sumarized
           assert num_choices == int(responses[0][qid])
           for i in range(0, num_choices):
             counts[i] = int(responses[i + 1][qid])
@@ -125,7 +127,13 @@ for section_id in sections:
           mcdata['css_class'] = questions[qid + '.css']
         qdata[qid] = mc_html.format_map(mcdata)
 
-      elif qid[:3] == 'txt':  # TEXT RESPONSE
+      elif qid.startswith('txt_') or qid.startswith('mcex_'):  # TEXT RESPONSE
+        if qid.startswith('txt_'):
+          qhtml = txt_html
+          qtitle = questions[qid]
+        else:
+          qhtml = mcex_html
+          qtitle = questions[qid.replace('ex', '')]
         rlist = list()
         for resp in responses:
           r = resp[qid]
@@ -133,12 +141,12 @@ for section_id in sections:
             rlist.append(r)
         rlist.sort(key=sortkey)
 
-        tdata = {'question_title': html.escape(questions[qid]),
+        tdata = {'question_title': html.escape(qtitle),
                  'li_responses': tag_wrap(rlist, 'li', '\n').replace('[nl]', '<br />'),
                  'css_class': ''}
         if qid + '.css' in questions:
           tdata['css_class'] = questions[qid + '.css']
-        qdata[qid] = txt_html.format_map(tdata)
+        qdata[qid] = qhtml.format_map(tdata)
 
       else:
         print("could not handle question: " + qid)
