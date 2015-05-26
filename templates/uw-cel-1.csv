@@ -1,0 +1,85 @@
+smc_1,Course materials were presented in an organised manner.
+smc_1.1,Strongly agree
+smc_1.2,Agree
+smc_1.3,Neutral
+smc_1.4,Disagree
+smc_1.5,Strongly disagree
+smc_2,Expectations for learning were clearly communicated.
+smc_2.1,Strongly agree
+smc_2.2,Agree
+smc_2.3,Neutral
+smc_2.4,Disagree
+smc_2.5,Strongly disagree
+smc_3,"The assignments, activities, and content helped me achieve the stated learning objectives."
+smc_3.1,Strongly agree
+smc_3.2,Agree
+smc_3.3,Neutral
+smc_3.4,Disagree
+smc_3.5,Strongly disagree
+smc_4,The assignments contributed to my learning.
+smc_4.1,Strongly agree
+smc_4.2,Agree
+smc_4.3,Neutral
+smc_4.4,Disagree
+smc_4.5,Strongly disagree
+smc_5,Feedback on course assignments contributed to my learning.
+smc_5.1,Strongly agree
+smc_5.2,Agree
+smc_5.3,Neutral
+smc_5.4,Disagree
+smc_5.5,Strongly disagree
+smc_6,Technology was used effectively for learning in the course.
+smc_6.1,Strongly agree
+smc_6.2,Agree
+smc_6.3,Neutral
+smc_6.4,Disagree
+smc_6.5,Strongly disagree
+smc_7,The general climate in the course was good for learning.
+smc_7.1,Strongly agree
+smc_7.2,Agree
+smc_7.3,Neutral
+smc_7.4,Disagree
+smc_7.5,Strongly disagree
+smc_8,The instructor related to students in a way that promoted mutual respect.
+smc_8.1,Strongly agree
+smc_8.2,Agree
+smc_8.3,Neutral
+smc_8.4,Disagree
+smc_8.5,Strongly disagree
+smc_9,The instructor's explanations were clear and understandable.
+smc_9.1,Strongly agree
+smc_9.2,Agree
+smc_9.3,Neutral
+smc_9.4,Disagree
+smc_9.5,Strongly disagree
+smc_10,The instructor was helpful to students seeking assistance.
+smc_10.1,Strongly agree
+smc_10.2,Agree
+smc_10.3,Neutral
+smc_10.4,Disagree
+smc_10.5,Strongly disagree
+smc_11,"Overall, I learned a great deal from this course."
+smc_11.1,Strongly agree
+smc_11.2,Agree
+smc_11.3,Neutral
+smc_11.4,Disagree
+smc_11.5,Strongly disagree
+smc_12,"Overall, I learned a great deal from the instructor."
+smc_12.1,Strongly agree
+smc_12.2,Agree
+smc_12.3,Neutral
+smc_12.4,Disagree
+smc_12.5,Strongly disagree
+smc_13,This course is:
+smc_13.1,required
+smc_13.2,elective
+smc_14,"On average, I spent x hours per week working on this course."
+smc_14.1,Significantly less than 10 hours
+smc_14.2,Less than 10 hours
+smc_14.3,Around 10 hours
+smc_14.4,More than 10 hours
+smc_14.5,Significantly more than 10 hours
+txt_1,What grade do you expect in this course? (percentage 1%...100%)
+txt_2,In your opinion the strengths of this course are:
+txt_3,In your opinion the weaknesses of this course are:
+txt_4,The instructor would like to know what specific things you believe might be done to improve the teaching of this course:
