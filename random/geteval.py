@@ -8,7 +8,7 @@ print("Content-type: application/json")
 print()
 
 #todo: make this more robust.  currently I only have to change it once a semester
-total_count = 777
+total_count = 1044
 random.seed()
 resp_id = random.randrange(total_count) + 1
 
