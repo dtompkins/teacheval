@@ -23,7 +23,7 @@ OUT_KEYS.extend(['resp_id', 'offering', 'path'])
 
 sections = list()
 for f in pathlib.Path(DATA_DIR).glob('*.csv'):
-  if 'responses' not in f.name:
+  if 'responses' not in f.name and 'export' not in f.name:
     sections.append(f.name[:-4])
 
 total_count = 0

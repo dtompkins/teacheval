@@ -6,7 +6,7 @@ import json
 import os.path
 import sys
 
-# This qmap Dict maps Dave's filed names to the evaluate question names
+# This qmap Dict maps Dave's field names to the evaluate question names
 
 qmap = {'mc_1': "Organization",
         'mc_2': "Explanations",
@@ -66,7 +66,7 @@ def get_response(obj, field):
 # USAGE:
 if len(sys.argv) != 3:
   print("syntax:")
-  print("    evaluate2csv.py filein.json fileout.csv")
+  print("    evaluate-json2csv.py filein.json fileout.csv")
   exit("missing parameter")
 
 file_in = sys.argv[1]
