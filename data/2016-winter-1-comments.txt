@@ -1,0 +1,14 @@
+It had been almost two years since I had the opportunity to teach CS 136 ("my baby") and I was really looking forward to it. <br /><br />
+
+There were a few resons the term did not go as smoothly as I would have liked:
+
+<ul>
+<li> It was a large team (7 instructors) with only one other faculty member (Nomair) and 5 sessionals.  Among the 7 of us, only 2 of us had taught the course before.  
+<li> Some of the assignments and exam questions written by the sessionals were awkward, and trying to improve their quality was quite a challenge.
+<li> I did not have the course notes fully ready for January. There were important changes I wanted to implement in the second half of the course, and so the notes only included the first half. The second half of the course was only available online. This was frustrating for everyone involved.
+<li> We decided to try and do 11 assignments instead of 10. This was not a popular decision.
+</ul>
+
+Aside from the above points, the course went pretty smoothly, and I was happy with the changes I introduced.<br /><br />
+
+I continued my popular tradition of showing 5 minutes of a movie before each lecture.  This term the students voted for <a href="http://www.imdb.com/title/tt2096673">Inside Out</a> (Sec 001) and <a href="http://www.imdb.com/title/tt0462538">The Simpsons Movie</a> (Sec 003).

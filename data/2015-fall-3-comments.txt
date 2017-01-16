@@ -1,3 +1,5 @@
-Dave's comments coming soon...
+While this was the third time I was the "instructor" for CS 100, this was the first term where <b>new content</b> was introduced. The course was a mixture of the old material and new material.  Just like the former version of the course, the new material was only readings.<br /><br />
 
-These evaluations are really more of an evaluation of the <i>course</i>, and not me.
+There were a few technical problems generating the new content, so we changed the schedule a bit (which did not go over well).<br /><br />
+
+As stated before, these evaluations are really more of an evaluation of the course, and not me.

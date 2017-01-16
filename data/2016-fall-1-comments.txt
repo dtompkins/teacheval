@@ -1,0 +1,11 @@
+Originally, I was not scheduled to teach CS 136 in the Fall. I was planning to wrap up CS 100 and make some improvements to CS 136 for the upcoming Winter term. Instead, I agreed to teach all 3 sections of CS 136. The sections were scheduled back-to-back-to-back, which meant I was teaching continuously for 4.5 hours every Tuesday and Thursday. While at times it was physically demanding, I actually enjoyed the experience and the challenge.<br /><br />
+
+For the first time, I was teaching all of the sections of CS 136. The 
+freedom from section coordination was quite liberating. I was able to 
+make some improvements to the lecture notes "on the fly". While the changes were well received, it did frustrate the students who purchased the printed notes at the beginning of the term.<br /><br />
+
+I managed to introduce (mostly) new assignments, and since I was the sole author, I was very happy with their quality. Some students complained about the difficulty and/or length of the assignments, but the complaints were mostly because the Fall term tends to be comprised of weaker students or those that were accustomed to assignments from CS 115 &amp; CS 116.<br /><br />
+
+For the first time, I designed all of the tutorials. By designing both the assignments and the tutorials I was able to improve their synchronicity.<br /><br />
+
+I continued my popular tradition of showing 5 minutes of a movie before each lecture.  This term the students voted for <a href="http://www.imdb.com/title/tt0129167">The Iron Giant</a> (Sec 001), <a href="http://www.imdb.com/title/tt0910970">Wall-E</a> (Sec 002) and <a href="http://www.imdb.com/title/tt0198781">Monsters, Inc.</a> (Sec 003).

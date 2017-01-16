@@ -139,16 +139,24 @@ for section_id in sections:
           r = resp[qid]
           if r and r.strip():
             if qid.startswith('mcex_'):
-              r = '[' + questions[qid.replace('ex', '') + '.' + str(resp[qid.replace('ex', '')])] + '] ' + r
+              numqid = qid.replace('ex', '')
+              if resp[numqid]:
+                numqstr = questions[numqid + '.' + str(resp[numqid])]
+              else:
+                numqstr = 'No Answer'                
+              r = '[' + numqstr + '] ' + r
             rlist.append(r)
         rlist.sort(key=sortkey)
-
-        tdata = {'question_title': html.escape(qtitle),
-                 'li_responses': tag_wrap(rlist, 'li', '\n').replace('[nl]', '<br />'),
-                 'css_class': ''}
-        if qid + '.css' in questions:
-          tdata['css_class'] = questions[qid + '.css']
-        qdata[qid] = qhtml.format_map(tdata)
+        
+        if rlist:
+          tdata = {'question_title': html.escape(qtitle),
+                   'li_responses': tag_wrap(rlist, 'li', '\n').replace('[nl]', '<br />'),
+                   'css_class': ''}
+          if qid + '.css' in questions:
+            tdata['css_class'] = questions[qid + '.css']
+          qdata[qid] = qhtml.format_map(tdata)
+        else:
+          qdata[qid] = ''
 
       else:
         print("could not handle question: " + qid)
