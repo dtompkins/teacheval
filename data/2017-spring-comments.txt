@@ -1,0 +1,2 @@
+Apparently, in Spring 2017 they once again changed the course evaluation format for this online course.<br><br>
+I have not yet updated my teaching evalution tool to import and display this data. The raw data is available in github at <a href="https://github.com/dtompkins/teacheval/blob/master/data/2017-spring-export.csv">https://github.com/dtompkins/teacheval/blob/master/data/2017-spring-export.csv</a>.
