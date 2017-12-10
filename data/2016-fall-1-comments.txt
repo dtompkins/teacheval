@@ -4,7 +4,7 @@ For the first time, I was teaching all of the sections of CS 136. The
 freedom from section coordination was quite liberating. I was able to 
 make some improvements to the lecture notes "on the fly". While the changes were well received, it did frustrate the students who purchased the printed notes at the beginning of the term.<br /><br />
 
-I managed to introduce (mostly) new assignments, and since I was the sole author, I was very happy with their quality. Some students complained about the difficulty and/or length of the assignments, but the complaints were mostly because the Fall term tends to be comprised of weaker students or those that were accustomed to assignments from CS 115 &amp; CS 116.<br /><br />
+I managed to introduce (mostly) new assignments, and since I was the sole author, I was very happy with their quality. Some students complained about the difficulty and/or length of the assignments, but the complaints were mostly because the Fall term tends to be comprised of weaker students or those that were accustomed to assignments from CS 115 &amp; CS 116. I experimented with granting more "second chances" this term, which really helped those students struggling to solve some of the harder assignments.<br /><br />
 
 For the first time, I designed all of the tutorials. By designing both the assignments and the tutorials I was able to improve their synchronicity.<br /><br />
 
