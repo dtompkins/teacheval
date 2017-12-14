@@ -1,1 +1,13 @@
-Comments forthcoming.
+I had just taught CS 136 in the previous term and I had introduced numerous improvements to the notes and tutorials. In this term I was looking forward to smoothing over those changes.<br><br>
+
+As is often the case in Winter, it was a large team (six instructors) with only one other faculty member (Tim) who was new to the course, and of the four sessionals only one had taught the course before.<br><br>
+
+The rest of the instructor team was pretty good, but they did struggle creating some of the assignments.
+Some assignments were too easy (or too hard) or were poorly specified or difficult to test (which can lead to a lot of headaches).
+As team lead, I take some responsibility for these mix-ups because I didn't always successfully communicate my assignment expectations in advance and help everyone focus on the learning goals.
+In the end, we were able to reshape most of the assignments and it went relatively smoothly.
+It is rare that students give the feedback that assignments were "too easy", but a few did below.<br><br>
+
+Aside from some assignment hiccups, I was very happy with the rest of the course elements (lectures, tutorials, exams, etc.)<br><br>
+
+Once again, I showed 5 minutes of a movie right before each lecture: <a href="http://www.imdb.com/title/tt2948356">Zootopia</a> (Sec 008) and <a href="http://www.imdb.com/title/tt2277860  ">Finding Dory</a> (Sec 009).

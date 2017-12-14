@@ -1,6 +1,6 @@
 It had been almost two years since I had the opportunity to teach CS 136 ("my baby") and I was really looking forward to it. <br /><br />
 
-There were a few resons the term did not go as smoothly as I would have liked:
+There were a few reasons the term did not go as smoothly as I would have liked:
 
 <ul>
 <li> It was a large team (7 instructors) with only one other faculty member (Nomair) and 5 sessionals.  Among the 7 of us, only 2 of us had taught the course before.  
