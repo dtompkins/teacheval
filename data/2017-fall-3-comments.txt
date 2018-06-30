@@ -1,0 +1,4 @@
+This term was not overly eventful.<br /><br />
+Because of other responsibilities and a forthcoming leave, it became clear that I would not likely be teaching CS 100 again for almost two years. As a result, I put "Phase III" on hold.
+I spent a bit of time cleaning up some things so it would be easier for others to teach, but I probably did not spend nearly as much time as I should have.<br /><br />
+Again, it is worthwhile mentioning that our ISAs do the vast majority of the student communication, so much of the instructor feedback is targeted toward them.
