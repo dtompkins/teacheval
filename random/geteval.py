@@ -7,8 +7,8 @@ import random
 print("Content-type: application/json")
 print()
 
-#todo: make this more robust.  currently I only have to change it once a semester
-total_count = 1618
+#todo: make this more robust.  currently I only have to change it once a term
+total_count = 1930
 random.seed()
 resp_id = random.randrange(total_count) + 1
 
