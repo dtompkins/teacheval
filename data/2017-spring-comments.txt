@@ -1,2 +1,4 @@
-Apparently, in Spring 2017 they once again changed the course evaluation format for this online course.<br><br>
-I have not yet updated my teaching evalution tool to import and display this data. The raw data is available in github at <a href="https://github.com/dtompkins/teacheval/blob/master/data/2017-spring-export.csv">https://github.com/dtompkins/teacheval/blob/master/data/2017-spring-export.csv</a>.
+In Spring 2017, I started planning out "Phase III" of the CS 100 course development project.<br /><br />
+My intention was to complete some new scripts, but I did not accomplish as much as I had planned.<br /><br />
+We spent some time coordinating with CEL to collect some feedback and user data on possible designs and prototypes, but to be honest, the data wasn't very helpful and CEL's focus wasn't completely aligned with what we were interested in.<br /><br />
+Apparently, they once again changed the course evaluation format for this online course. At least some of these new questions are more meaningful for an online course. However, because our ISAs do the vast majority of the interaction with the students, most of this feedback is more relevant for them than for myself.

@@ -1,0 +1,106 @@
+mc_1,The instructor related to students in way that promoted mutual respect.
+mc_1.1,Strongly Disagree
+mc_1.2,Disagree
+mc_1.3,Neutral
+mc_1.4,Agree
+mc_1.5,Strongly Agree
+mc_2,The instructor's explanations were clear and understandable.
+mc_2.1,Strongly Disagree
+mc_2.2,Disagree
+mc_2.3,Neutral
+mc_2.4,Agree
+mc_2.5,Strongly Agree
+mc_3,The instructor was helpful to students seeking assistance.
+mc_3.1,Strongly Disagree
+mc_3.2,Disagree
+mc_3.3,Neutral
+mc_3.4,Agree
+mc_3.5,Strongly Agree
+mc_4,"Overall, I learned a great deal from the instructor."
+mc_4.1,Strongly Disagree
+mc_4.2,Disagree
+mc_4.3,Neutral
+mc_4.4,Agree
+mc_4.5,Strongly Agree
+mc_5,Course materials were presented in an organised manner.
+mc_5.1,Strongly Disagree
+mc_5.2,Disagree
+mc_5.3,Neutral
+mc_5.4,Agree
+mc_5.5,Strongly Agree
+mc_6,Expectations for learning were clearly communicated.
+mc_6.1,Strongly Disagree
+mc_6.2,Disagree
+mc_6.3,Neutral
+mc_6.4,Agree
+mc_6.5,Strongly Agree
+mc_7,"The assignments, activities, and content helped me achieve the stated learning objectives."
+mc_7.1,Strongly Disagree
+mc_7.2,Disagree
+mc_7.3,Neutral
+mc_7.4,Agree
+mc_7.5,Strongly Agree
+mc_8,The assignments contributed to my learning.
+mc_8.1,Strongly Disagree
+mc_8.2,Disagree
+mc_8.3,Neutral
+mc_8.4,Agree
+mc_8.5,Strongly Agree
+mc_9,Feedback on course assignments contributed to my learning.
+mc_9.1,Strongly Disagree
+mc_9.2,Disagree
+mc_9.3,Neutral
+mc_9.4,Agree
+mc_9.5,Strongly Agree
+mc_10,Technology was used effectively for learning in the course.
+mc_10.1,Strongly Disagree
+mc_10.2,Disagree
+mc_10.3,Neutral
+mc_10.4,Agree
+mc_10.5,Strongly Agree
+mc_11,The general climate in the course was good for learning.
+mc_11.1,Strongly Disagree
+mc_11.2,Disagree
+mc_11.3,Neutral
+mc_11.4,Agree
+mc_11.5,Strongly Agree
+mc_12,"Overall, I learned a great deal from this course."
+mc_12.1,Strongly Disagree
+mc_12.2,Disagree
+mc_12.3,Neutral
+mc_12.4,Agree
+mc_12.5,Strongly Agree
+mc_13,What grade do you expect in this course?
+mc_13.1,Below 50
+mc_13.2,50-60
+mc_13.3,60-70
+mc_13.4,70-80
+mc_13.5,80-90
+mc_13.6,Above 90
+mc_14,"Is this course required, or an elective?"
+mc_14.1,Required
+mc_14.2,Elective
+mc_15,"On average, I spent X hours per week working on this course:"
+mc_15.1,Much less than 10 hours
+mc_15.2,Less than 10 hours
+mc_15.3,Around 10 hours
+mc_15.4,More than 10 hours
+mc_15.5,Much more than 10 hours
+txt_1,Course Strengths:
+txt_2,Course Weaknesses:
+txt_3,Improvements to be Made:
+mcex_1,question-specific comments:
+mcex_2,question-specific comments:
+mcex_3,question-specific comments:
+mcex_4,question-specific comments:
+mcex_5,question-specific comments:
+mcex_6,question-specific comments:
+mcex_7,question-specific comments:
+mcex_8,question-specific comments:
+mcex_9,question-specific comments:
+mcex_10,question-specific comments:
+mcex_11,question-specific comments:
+mcex_12,question-specific comments:
+mcex_13,question-specific comments:
+mcex_14,question-specific comments:
+mcex_15,question-specific comments:
